@@ -92,4 +92,4 @@ Presentations
 1. Léa Jouvin, IFAE Barcelona, Spain ([leajouvin](https://github.com/JouvinLea))
 1. José Enrique Ruiz, IAA-CSIC Granada, Spain ([bultako](https://github.com/bultako))
 1. Fabio Pintore, INAF/IASF Milano, Italy ([fabiopintore](https://github.com/fabiopintore))
-
+1. Quentin Remy, MPIK Heidelberg, Germany ([QRemy](https://github.com/QRemy))
